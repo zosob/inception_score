@@ -1,4 +1,4 @@
-# inception_score
+# Inception Score with Keras
 
 This is a Keras version of implementing inception score. 
 
